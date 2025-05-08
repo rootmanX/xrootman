@@ -31,10 +31,10 @@ I'm a **Cybersecurity Researcher** and **Gray Hat Hacker** passionate about secu
 
 ## 🌟 Featured Projects
 
-- **[Smart Contract Auditor](https://github.com/Xrootman/smart-contract-auditor)**: A Python and Rust tool for detecting vulnerabilities in Solidity contracts.  
-- **[Web3 Penetration Testing Framework](https://github.com/Xrootman/web3-pentest)**: A TypeScript and JavaScript-based framework for testing Web3 DApps.  
-- **[CTF Writeups](https://github.com/Xrootman/ctf-writeups)**: Writeups for CTF challenges, featuring C++, Python, and Shell scripts.  
-- **[Network Scanner](https://github.com/Xrootman/network-scanner)**: A Go and PowerShell tool for automated network vulnerability scanning.  
+- Smart Contract Auditor: A Python and Rust tool for detecting vulnerabilities in Solidity contracts.  
+- Web3 Penetration Testing Framework: A TypeScript and JavaScript-based framework for testing Web3 DApps.  
+- CTF Writeups: Writeups for CTF challenges, featuring C++, Python, and Shell scripts.  
+- Network Scanner: A Go and PowerShell tool for automated network vulnerability scanning.  
 
 ## 🏆 Achievements
 
@@ -49,15 +49,3 @@ I'm a **Cybersecurity Researcher** and **Gray Hat Hacker** passionate about secu
 - 🌐 Website: https://xrootman.com  
 
 ✨ **Motto**: Hack ethically, secure globally.
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xrootman&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xrootman&layout=compact&theme=dark)
-
-## 🛡️ Badges
-
-[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org)  
-[![Rust](https://img.shields.io/badge/Rust-2023-orange)](https://www.rust-lang.org)  
-[![Security](https://img.shields.io/badge/Focus-Cybersecurity-red)](https://owasp.org)  
-[![Web3](https://img.shields.io/badge/Web3-Blockchain-green)](https://web3.foundation)
